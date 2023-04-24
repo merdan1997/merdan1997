@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merdan1997
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, ANDROID DEVELOPMENT
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on google colab
 - 📫 How to reach me ...
